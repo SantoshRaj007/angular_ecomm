@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://onlinetestapi.gerasim.in/api/Ecomm/",
+      "secure": true
+    }
+  }
